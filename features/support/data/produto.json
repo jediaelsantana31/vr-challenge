@@ -1,0 +1,416 @@
+[
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 217,
+        "nome": "Multi - Boas Festas",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 99999,
+        "nome": "VR Transporte",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 203,
+        "nome": "Compras",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 212,
+        "nome": "Multi - Saldo Alimentação",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 680,
+        "nome": "Nutrição",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 20151,
+        "nome": " Essencial ",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 20157,
+        "nome": "Corporativo - Anual",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 205,
+        "nome": "VR Saude",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 201,
+        "nome": "Cesta",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 208,
+        "nome": "VR Multibenefícios Plus",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 213,
+        "nome": "Multi - Saldo Auxílio VR+VA",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 31,
+        "nome": "Refeição",
+        "exibirRede": true,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": true
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 243,
+        "nome": "Auxílio Refeição",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 20155,
+        "nome": "Gerencial - Anual",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 99997,
+        "nome": "ABS Card Autogestão",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 58,
+        "nome": "Multi - Saldo Home Office",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 30,
+        "nome": "Cultura",
+        "exibirRede": true,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 20156,
+        "nome": "Profissional - Anual",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 605,
+        "nome": "Desconto Academia | TotalPass",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 244,
+        "nome": "Multi - Saldo Refeição",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 211,
+        "nome": "Multi - Saldo Auxílio Alimentação",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 99998,
+        "nome": "Vale Transporte",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 608,
+        "nome": "SVA Gympass Padrão",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 262,
+        "nome": "Multi - Saldo Mobilidade",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 207,
+        "nome": "Multibenefícios",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 606,
+        "nome": "SVA Saúde Individual",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 27,
+        "nome": "Alimentação",
+        "exibirRede": true,
+        "produtoAlimentacao": true,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 601,
+        "nome": "Desconto Farmacia",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 20154,
+        "nome": "Corporativo",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 59,
+        "nome": "Multi - Premiação",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 28,
+        "nome": "Auto",
+        "exibirRede": true,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 245,
+        "nome": "Multi - Saldo Auxílio Refeição",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 204,
+        "nome": "Auxílio Alimentação",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 602,
+        "nome": "Seguro Alimentação VR",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 242,
+        "nome": "Refeição Adicional",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 209,
+        "nome": "Auxílio VR+VA",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 603,
+        "nome": "Economia Saúde",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 99996,
+        "nome": "ABS Card Intermediação",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 261,
+        "nome": "Auto Manutenção",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 686,
+        "nome": "Desconto Farmácia Online - Medipreço",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 202,
+        "nome": "Boas Festas",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 20153,
+        "nome": "Profissional",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 604,
+        "nome": "Apoio ao Trabalhador",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 20152,
+        "nome": "Gerencial",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 607,
+        "nome": "SVA Odonto",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    },
+    {
+        "adquirirCartao": false,
+        "percentualCartao": 0,
+        "id": 241,
+        "nome": "Confraternização",
+        "exibirRede": false,
+        "produtoAlimentacao": false,
+        "produtoRefeicao": false
+    }
+]

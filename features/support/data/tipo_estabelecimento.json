@@ -1,0 +1,282 @@
+[
+   {
+      "key":"REFEICAO|PIZZARIA",
+      "name":"PIZZARIA",
+      "label":"Refeição - Pizzaria"
+   },
+   {
+      "key":"REFEICAO|CHURRASC",
+      "name":"CHURRASCARIA",
+      "label":"Refeição - Churrascaria"
+   },
+   {
+      "key":"REFEICAO|RESTAURANT",
+      "name":"RESTAURANTE",
+      "label":"Refeição - Restaurante"
+   },
+   {
+      "key":"REFEICAO|LANCHONETE",
+      "name":"LANCHONETE",
+      "label":"Refeição - Lanchonete"
+   },
+   {
+      "key":"REFEICAO|BAR",
+      "name":"BAR",
+      "label":"Refeição - Bar"
+   },
+   {
+      "key":"REFEICAO|OUTROS",
+      "name":"OUTROS_REFEICAO",
+      "label":"Refeição - Outros"
+   },
+   {
+      "key":"REFEICAO|FASTFOOD",
+      "name":"FAST_FOOD",
+      "label":"Refeição - Fast-Food"
+   },
+   {
+      "key":"REFEICAO|PADARIA",
+      "name":"PADARIA_REFEICAO",
+      "label":"Refeição - Padaria"
+   },
+   {
+      "key":"ALIMENT|MERCADO",
+      "name":"MERCADO",
+      "label":"Alimentação - Mercado"
+   },
+   {
+      "key":"ALIMENT|ACOUGUE",
+      "name":"ACOUGUE",
+      "label":"Alimentação - Açougue"
+   },
+   {
+      "key":"ALIMENT|EMPORIO",
+      "name":"EMPORIO",
+      "label":"Alimentação - Empório"
+   },
+   {
+      "key":"ALIMENT|PADARIA",
+      "name":"PADARIA_ALIMENTACAO",
+      "label":"Alimentação - Padaria"
+   },
+   {
+      "key":"ALIMENT|HOSPITAL",
+      "name":"HOSPITAL",
+      "label":"Alimentação - Hospital"
+   },
+   {
+      "key":"ALIMENT|FARMACIA",
+      "name":"FARMACIA",
+      "label":"Alimentação - Farmácia"
+   },
+   {
+      "key":"ALIMENT|OUTROS",
+      "name":"OUTROS_ALIMENTACAO",
+      "label":"Alimentação - Outros"
+   },
+   {
+      "key":"ALIMENT|SUPERMERCA",
+      "name":"SUPERMERCADO",
+      "label":"Alimentação - Supermercado"
+   },
+   {
+      "key":"ALIMENT|HIPERMERCA",
+      "name":"HIPERMERCADO",
+      "label":"Alimentação - Hipermercado"
+   },
+   {
+      "key":"ALIMENT|MERCEARIA",
+      "name":"MERCEARIA",
+      "label":"Alimentação - Mercearia"
+   },
+   {
+      "key":"ALIMENT|ARMAZEM",
+      "name":"TESTE",
+      "label":"Alimentação - Armazém"
+   },
+   {
+      "key":"ALIMENT|PEIXARIA",
+      "name":"PEIXES_FRUTOS_DO_MAR",
+      "label":"Alimentação -Peixes/frutos mar"
+   },
+   {
+      "key":"ALIMENT|HORTIMERCA",
+      "name":"HORTIMERCADO",
+      "label":"Alimentação - Hortimercado"
+   },
+   {
+      "key":"ALIMENT|LATICFRIOS",
+      "name":"LATICINIOS_FRIOS",
+      "label":"Alimentação - Laticínios/Frios"
+   },
+   {
+      "key":"REFEICAO|ARABE",
+      "name":"ARABE",
+      "label":"Refeição - Árabe"
+   },
+   {
+      "key":"REFEICAO|ASIATICOS",
+      "name":"ASIATICOS",
+      "label":"Refeição - Asiáticos"
+   },
+   {
+      "key":"REFEICAO|BATATARECH",
+      "name":"BATATA_RECHEADA",
+      "label":"Refeição - Batata Recheada"
+   },
+   {
+      "key":"REFEICAO|SUCOS",
+      "name":"SUCOS",
+      "label":"Refeição - Sucos"
+   },
+   {
+      "key":"REFEICAO|CAFETERIA",
+      "name":"CAFETARIA",
+      "label":"Refeição - Cafeteria"
+   },
+   {
+      "key":"REFEICAO|CHINESA",
+      "name":"CHINESA",
+      "label":"Refeição - Chinesa"
+   },
+   {
+      "key":"REFEICAO|CHOCOLATER",
+      "name":"CHOCOLATERIA",
+      "label":"Refeição - Chocolateria"
+   },
+   {
+      "key":"REFEICAO|COMIDAREGI",
+      "name":"COMIDA_REGIONAL",
+      "label":"Refeição - Comida Regional"
+   },
+   {
+      "key":"REFEICAO|CONVENIENC",
+      "name":"CONVENIENCIA",
+      "label":"Refeição - Conveniência"
+   },
+   {
+      "key":"REFEICAO|COZINHARAP",
+      "name":"COZINHA_RAPIDA",
+      "label":"Refeição - Cozinha rápida"
+   },
+   {
+      "key":"REFEICAO|CREPERIA",
+      "name":"CREPERIA",
+      "label":"Refeição - Creperia"
+   },
+   {
+      "key":"REFEICAO|DELICATESS",
+      "name":"DELICATESSEN",
+      "label":"Refeição - Delicatessen"
+   },
+   {
+      "key":"REFEICAO|DOCERIAS",
+      "name":"DOCERIAS",
+      "label":"Refeição - Docerias"
+   },
+   {
+      "key":"REFEICAO|ESPANHOLA",
+      "name":"ESPANHOLA",
+      "label":"Refeição - Espanhola"
+   },
+   {
+      "key":"REFEICAO|FRANCESA",
+      "name":"FRANCESA",
+      "label":"Refeição - Francesa"
+   },
+   {
+      "key":"REFEICAO|FROZENYOGU",
+      "name":"FROZEN_YOGURTS",
+      "label":"Refeição - Frozen Yogurts"
+   },
+   {
+      "key":"REFEICAO|GALETERIA",
+      "name":"GALETERIA",
+      "label":"Refeição - Galeteria"
+   },
+   {
+      "key":"REFEICAO|HAMBURGUER",
+      "name":"HAMBUERGUERIA",
+      "label":"Refeição - Hamburgueria"
+   },
+   {
+      "key":"REFEICAO|INDIANA",
+      "name":"INDIANA",
+      "label":"Refeição - Indiana"
+   },
+   {
+      "key":"REFEICAO|INTERNACIO",
+      "name":"INTERNACIONAL",
+      "label":"Refeição - Internacional"
+   },
+   {
+      "key":"REFEICAO|ITALIANA",
+      "name":"ITALIANA",
+      "label":"Refeição - Italiana"
+   },
+   {
+      "key":"REFEICAO|JAPONESA",
+      "name":"JAPONESA",
+      "label":"Refeição - Japonesa"
+   },
+   {
+      "key":"REFEICAO|LIBANESA",
+      "name":"LIBANESA",
+      "label":"Refeição - Libanesa"
+   },
+   {
+      "key":"REFEICAO|MEDITERRAN",
+      "name":"MEDITERRANEA",
+      "label":"Refeição - Mediterrânea"
+   },
+   {
+      "key":"REFEICAO|MEXICANA",
+      "name":"MEXICANA",
+      "label":"Refeição - Mexicana"
+   },
+   {
+      "key":"REFEICAO|PASTELARIA",
+      "name":"PASTELARIA",
+      "label":"Refeição - Pastelaria"
+   },
+   {
+      "key":"REFEICAO|PORTUGUESA",
+      "name":"PORTUGUESA",
+      "label":"Refeição - Portuguesa"
+   },
+   {
+      "key":"ALIMENT|QUEIJARIA",
+      "name":"QUEIJARIA",
+      "label":"Alimentação - Queijaria"
+   },
+   {
+      "key":"ALIMENT|ROTISSERIA",
+      "name":"ROTISSERIA",
+      "label":"Alimentação - Rotisseria"
+   },
+   {
+      "key":"REFEICAO|SAUDAVEL",
+      "name":"SAUDAVEL",
+      "label":"Refeição - Saudável"
+   },
+   {
+      "key":"REFEICAO|SORVETERIA",
+      "name":"SORVETERIA",
+      "label":"Refeição - Sorveteria"
+   },
+   {
+      "key":"REFEICAO|TAILANDESA",
+      "name":"TAILANDESA",
+      "label":"Refeição - Tailandesa"
+   },
+   {
+      "key":"REFEICAO|TEMAKERIA",
+      "name":"TEMAKERIA",
+      "label":"Refeição - Temakeria"
+   },
+   {
+      "key":"REFEICAO|VEGETARIAN",
+      "name":"VEGETARIANOS",
+      "label":"Refeição - Vegetarianos"
+   }
+]
