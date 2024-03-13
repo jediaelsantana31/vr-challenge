@@ -1,7 +1,7 @@
 # language: pt
 Funcionalidade: Validar Estabelecimentos Cadastrados
 
-  @ct-te-01
+  @ct-et-01
   Cenario: Validar os tipos de estabelecimentos da VR
     Dado os tipos de estabelecimentos da VR
     Quando consulto as informacoes dos produtos e estabelecimentos
